@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+###### assignment
+Perform below task using defined tech with
+
+designing
+
+Techs needs to be used - [ React, Hooks, Bootstrap]
+
+1. Login using dummy credentials ( create a login screen with form validations )
+2. Create a Homepage and call this Jokes api ( display jokes data in proper table ) -
+https://v2.jokeapi.dev/joke/any?format=json&blacklistFlags=nsfw,sexist&type=single&lang=E
+N&amount=10
+
+Note : UI must be responsive for desktop and mobile version.
+ 
